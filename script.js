@@ -17,7 +17,7 @@ btnTema.addEventListener('click', () => {
 // Renderização de Projetos
 const meusProjetos = [
     { titulo: "Projeto 01 - MVP", descricao: "Primeira versão do meu portfólio profissional.", link: "https://github.com/riltonbeserra/portfolio-mvp" },
-    { titulo: "Projeto 02 - Gestão", descricao: "Sistema focado em administração pública.", link: "https://github.com/riltonbeserra/portfolio-react" }
+    { titulo: "Projeto 02 - Gestão", descricao: "Sistema focado em administração pública.", link: "https://github.com/riltonbeserra/portfolio-react" },
     { titulo: "Projeto 03 - Web", descricao: "Estudos de sistemas para internet.", link: "https://riltonbeserra.github.io/portfolio-mvp" }
 ];
 
